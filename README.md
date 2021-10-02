@@ -1,4 +1,4 @@
-# Carolina Data Chanllege 2021 Project: Social Vulnerability
+# Carolina Data Challenge 2021 Project: Social Vulnerability
 ## IAA Team A
 * Carlos Huisa
 * Nicole Hanrahan
