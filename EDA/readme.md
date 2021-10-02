@@ -1,6 +1,6 @@
 # Project Description
 ## Programming tools
-1. Python
+1. Python (Jupyter Notebook)
 2. Tableau
 
 ### Analytic modeling
