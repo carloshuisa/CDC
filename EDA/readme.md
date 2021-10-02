@@ -7,7 +7,7 @@
 1.  Long Short-Term Memory (LSTM)
 2.  Time series analysis
 
-## What our project does overall
+## What our project does
 Our project provides county-level comparisons on the social vulnerability index (SVI), along with insights into how national disasters and COVID are related to SVI. In order to focus on those populations who may need the most help in the future, we forecasted potential deaths from COVID-19 by vulnerability level. We hope this project can help public health officials and emergency response planners identify and map the communities that will most likely need support. Further, we hope it helps them prioritize their limited resources for the tracts in need most before any hazardous events.
 
 ## How we built our project
