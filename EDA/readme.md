@@ -3,7 +3,7 @@
 1. Python (Jupyter Notebook)
 2. Tableau
 
-### Analytic modeling
+## Analytic modeling
 1.  Long Short-Term Memory (LSTM)
 2.  Time series analysis
 
